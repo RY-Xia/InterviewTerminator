@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Ryan123:popnono1016@fi.kgdc8.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "ryantoken",
+  "githubClientId": "51bf825ca4cc617f9d19",
+  "githubSecret": "bf603670506a12e2f24ccaf134f0f7e16153002c"
+}
